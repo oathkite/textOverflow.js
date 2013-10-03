@@ -22,6 +22,7 @@ jquery(1.8以上)
 }
 ```
 
+###js
 ```js
 $('.sample').textOverflow();
 ```
