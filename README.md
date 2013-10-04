@@ -1,4 +1,4 @@
-touchScroll.js
+textOverflow.js
 ===============
 
 文字列がブロック要素のmax-heightを超えた場合、トリミングをして...に変更するjQueryプラグインです。
